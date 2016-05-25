@@ -1,8 +1,11 @@
-.info {
-  font-family: sans-serif;
-  color: green;
+.ok {
+  font-size: 3em;
+  color: red
 }
 
 .about {
+  font-style: italic;
+  color: cyan;
+  font-size: 2em;
 
 }
